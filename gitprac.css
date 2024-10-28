@@ -13,7 +13,8 @@ a:visited{
 }
 
 .class{
-    margin:25px;
-    font-weight: bold;    
+    margin: 25px;
+    font-weight: bold;
+    text-align: center;    
 
 }
