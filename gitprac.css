@@ -1,6 +1,6 @@
 h1{
     border-style: solid;
-    border-width: 2.5px;
+    border-width: sm;
     border-color:cadetblue;
 }
 body{
@@ -17,4 +17,11 @@ a:visited{
     font-weight: bold;
     text-align: center;    
 
+}
+
+.card-body{
+    background-color: cadetblue;
+}
+.card-text{
+    color: white;
 }
