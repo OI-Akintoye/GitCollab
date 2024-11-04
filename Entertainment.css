@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(62, 191, 255);
+}
+
+h2 {
+    color: black;
+}
+
+div#Subsection-block {
+    color: black;
+    border: 2px solid grey;
+}
